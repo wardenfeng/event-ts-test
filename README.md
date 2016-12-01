@@ -1,2 +1,1 @@
-# event-ts-test
-event-ts项目的功能测试
+#feng3d-ts-test

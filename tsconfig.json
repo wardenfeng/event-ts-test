@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "outDir": "out"
+    },
+    "files": [
+        "node_modules/event-ts/out/event.d.ts",
+        //
+        "src/utils/loadjs.ts",
+        "src/me/feng3d/events/EventBubblesTest.ts",
+        "src/me/feng3d/events/EventBubblesTest2.ts",
+        "src/me/feng3d/events/EventCustomBubblesTest.ts",
+        "src/me/feng3d/events/EventDispatcherTest.ts",
+        "src/me/feng3d/events/EventPriortyTest.ts",
+        "src/me/feng3d/events/IEventDispatcherTest.ts"
+    ]
+}

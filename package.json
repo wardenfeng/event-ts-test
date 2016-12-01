@@ -1,0 +1,25 @@
+{
+  "name": "event-ts-test",
+  "version": "0.0.0",
+  "description": "event-ts项目测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wardenfeng/event-ts-test.git"
+  },
+  "keywords": [
+    "event-ts-test"
+  ],
+  "author": "feng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wardenfeng/event-ts-test/issues"
+  },
+  "homepage": "https://github.com/wardenfeng/event-ts-test#readme",
+  "dependencies": {
+    "event-ts": "0.0.1"
+  }
+}
